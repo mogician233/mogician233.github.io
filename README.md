@@ -17,22 +17,21 @@
 关系网可视化：使用pyecharts库的Graph模式，将节点名称设为人物名，节点大小设置为3×log（count_name+1）
 
 ## .作业2  
-[homework2][2]
-地理连线图
+[homework2][2]  
+地理连线图  
 胡一淳绕着五个城市飞行，最终化成了五角星，表达内心的赤诚爱国情
 
 
 ## .作业3
-[homework3.1][3]
-中国地图：2020年各地房价
-
-[homework3.2][4]
+[homework3.1][3]  
+中国地图：2020年各地房价  
+[homework3.2][4]  
 世界地图：2008年金牌榜前10
 
 ## .作业4
-[homework4][5]
-组合图表
-某公司在2016至10
+[homework4][5]  
+组合图表  
+某公司在2016至2020年市场持续扩张，该图反映了该公司在全国各地的扩张情况、同当地人口差异的对比，以及以扇形图的方式体现占据主体的城市。
 
 [1]:https://mogician233.github.io/relation.html
 [2]:https://mogician233.github.io/geo_line_star.html
