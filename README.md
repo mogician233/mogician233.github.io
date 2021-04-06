@@ -33,7 +33,7 @@
 组合图表  
 某公司在2016至2020年市场持续扩张，该图反映了该公司在全国各地的扩张情况、同当地人口差异的对比，以及以扇形图的方式体现占据主体的城市。
 
-[1]:https://mogician233.github.io/relation.html
+[1]:https://mogician233.github.io/word_freq.html
 [2]:https://mogician233.github.io/geo_line_star.html
 [3]:https://mogician233.github.io/%E5%90%84%E7%9C%81%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BE_map.html
 [4]:https://mogician233.github.io/Beijing2008.html
