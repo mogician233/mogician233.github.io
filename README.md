@@ -44,4 +44,4 @@
 [3]:https://mogician233.github.io/%E5%90%84%E7%9C%81%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BE_map.html
 [4]:https://mogician233.github.io/Beijing2008.html
 [5]:https://mogician233.github.io/MarketExpand.html
-[6]:./hw3/homepage.html
+[6]:https://mogician233.github.io/hw3/homepage.html
